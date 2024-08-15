@@ -19,9 +19,8 @@ npm install
 npm run dev
 ```
 
-![image](public/loading.png)
+<img width="1494" alt="loading" src="https://github.com/user-attachments/assets/f3d192e6-fe91-45f8-a5ca-496a6f4b33ea">
 
 <br/>
 
-![image](public/image.png)
-
+<img width="1494" alt="image" src="https://github.com/user-attachments/assets/2d4b1d30-f6f5-4353-a366-855fa9cce792">
