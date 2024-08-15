@@ -19,16 +19,4 @@ npm run dev
 
 ![image](public/loading.png)
 ![image](public/image.png)
-![video](public/video.mov)
-
-<br />
-
-![image](loading.png)
-![image](image.png)
-![video](video.mov)
-
-<br/>
-
-![image](https://cube-notprateeek.netlify.app/loading.png)
-![image](https://cube-notprateeek.netlify.app/image.png)
-![video](https://cube-notprateeek.netlify.app/video.mov)
+https://cube-notprateeek.netlify.app/video.mov
